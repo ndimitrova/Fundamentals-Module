@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\bin\Debug\netcoreapp2.0\Message Decrypter.deps.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\bin\Debug\netcoreapp2.0\Message Decrypter.runtimeconfig.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\bin\Debug\netcoreapp2.0\Message Decrypter.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\bin\Debug\netcoreapp2.0\Message Decrypter.dll
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\bin\Debug\netcoreapp2.0\Message Decrypter.pdb
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.dll
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Message Decrypter\Message Decrypter\obj\Debug\netcoreapp2.0\Message Decrypter.pdb
