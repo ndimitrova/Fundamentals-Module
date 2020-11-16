@@ -1,2 +1,2 @@
 # Fundamentals-Module
-This is exercises from Fundamentals Module
+This are exercises from Fundamentals Module
