@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\bin\Debug\netcoreapp2.0\Messages Manager.deps.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\bin\Debug\netcoreapp2.0\Messages Manager.runtimeconfig.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\bin\Debug\netcoreapp2.0\Messages Manager.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\bin\Debug\netcoreapp2.0\Messages Manager.dll
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\bin\Debug\netcoreapp2.0\Messages Manager.pdb
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.dll
+C:\Users\User\Desktop\C# Fundamentals\Final Exam 03.08.2019 I group\Messages Manager\Messages Manager\obj\Debug\netcoreapp2.0\Messages Manager.pdb
